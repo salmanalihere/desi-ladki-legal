@@ -33,3 +33,10 @@ Never share your Google account password, OTP, payment card details or purchase 
 ## 8. Contact
 
 **indianfreelancerguy@gmail.com**
+
+
+## 9. Publisher details
+
+**Publisher:** Xenon (registered company)  
+**Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
+**Email:** indianfreelancerguy@gmail.com
