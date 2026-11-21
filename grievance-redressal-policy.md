@@ -7,9 +7,10 @@ We aim to handle user concerns fairly and transparently.
 ## 1. Grievance contact
 
 **Publisher:** Xenon (registered company)  
-**Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
-**Grievance email:** indianfreelancerguy@gmail.com  
-**Grievance Officer:** The company must insert the name and designation of the person formally appointed to handle grievances before publication wherever required by applicable law or platform rules.
+**Registered/contact address:** C1/7, Block D, Jamia Nagar, Okhla Vihar, New Delhi, Delhi 110025, India  
+**Grievance Officer:** Mohd Salman Ali  
+**Designation:** Grievance Officer  
+**Grievance email:** indianfreelancerguy@gmail.com
 
 ## 2. What you may report
 
@@ -30,5 +31,7 @@ If dissatisfied, reply to the same email requesting escalation. You may also use
 ## 6. Contact
 
 **Xenon (registered company)**  
-C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
+C1/7, Block D, Jamia Nagar, Okhla Vihar, New Delhi, Delhi 110025, India  
+**Grievance Officer:** Mohd Salman Ali  
+**Designation:** Grievance Officer  
 **indianfreelancerguy@gmail.com**
