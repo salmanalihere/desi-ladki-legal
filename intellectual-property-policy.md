@@ -23,3 +23,10 @@ If you believe content in the app infringes your rights, email **indianfreelance
 ## 5. Contact
 
 **indianfreelancerguy@gmail.com**
+
+
+## Publisher details
+
+**Publisher:** Xenon (registered company)  
+**Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
+**Email:** indianfreelancerguy@gmail.com
