@@ -20,4 +20,6 @@ The policy website is a static GitHub Pages site. The supplied page does not int
 
 ## 4. Contact
 
+**Publisher:** Xenon (registered company)  
+**Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
 Questions: **indianfreelancerguy@gmail.com**.
