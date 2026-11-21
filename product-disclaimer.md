@@ -29,4 +29,5 @@ If you do not agree with this disclaimer, please discontinue using the applicati
 ## Contact
 
 Questions: **indianfreelancerguy@gmail.com**  
-Operator name supplied: **Xenon**.
+Publisher: **Xenon (registered company)**  
+Registered/contact address: **C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India**.
