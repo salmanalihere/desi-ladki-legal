@@ -34,3 +34,10 @@ Some purchase/accounting, fraud-prevention or dispute records may need to be ret
 ## 7. Advertising
 
 The developer has confirmed that no AdMob account or production advertising setup exists yet. If ads, analytics or other tracking SDKs are enabled, this policy must be updated to identify relevant data and providers.
+
+
+## Publisher details
+
+**Publisher:** Xenon (registered company)  
+**Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
+**Email:** indianfreelancerguy@gmail.com
