@@ -6,12 +6,10 @@ We aim to handle user concerns fairly and transparently.
 
 ## 1. Grievance contact
 
-**Operator name supplied:** Xenon  
-**Proposed grievance contact/designation:** Xenon — Individual Developer (acting as the grievance contact)  
-**Email:** indianfreelancerguy@gmail.com  
-**Location supplied:** Jamia Nagar, New Delhi, India.
-
-The name “Xenon” has not been confirmed as the individual's full legal name. The complete postal address (house/building number, street, locality, PIN code) and the individual's legal name should be added before publication wherever required by applicable law or platform rules. A locality alone is not a complete postal address.
+**Publisher:** Xenon (registered company)  
+**Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
+**Grievance email:** indianfreelancerguy@gmail.com  
+**Grievance Officer:** The company must insert the name and designation of the person formally appointed to handle grievances before publication wherever required by applicable law or platform rules.
 
 ## 2. What you may report
 
@@ -31,4 +29,6 @@ If dissatisfied, reply to the same email requesting escalation. You may also use
 
 ## 6. Contact
 
+**Xenon (registered company)**  
+C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
 **indianfreelancerguy@gmail.com**
