@@ -37,3 +37,10 @@ Provide the Google Play order number, purchase date/time, product name, app vers
 ## 7. Contact and response
 
 Email **indianfreelancerguy@gmail.com**. Please allow reasonable time for investigation. Applicable statutory complaint acknowledgement and resolution timelines will be followed.
+
+
+## 8. Publisher details
+
+**Publisher:** Xenon (registered company)  
+**Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
+**Email:** indianfreelancerguy@gmail.com
