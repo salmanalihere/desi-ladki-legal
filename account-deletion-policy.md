@@ -2,26 +2,20 @@
 
 **Last updated: 21 November 2026**
 
-## 1. Account model
+## 1. Current account model
 
-The developer's current description is that Desi Ladki uses an anonymous installation identity for purchase verification and does not require a conventional user name/password account. This must be re-checked against the production app and Play listing. An installation identity is still data and should not be described as a personal account unless the product treats it as one.
+The developer describes Desi Ladki as using an anonymous installation identity for purchase verification rather than a conventional username/password account. The app's chat content is intended to be stored locally on the device.
 
-## 2. Requesting deletion
+## 2. Local app data
 
-To request deletion of backend records associated with an installation, email **indianfreelancerguy@gmail.com** with the subject **Desi Ladki — Data Deletion Request**. Do not include a purchase token, password, OTP or full payment details. We may request limited information reasonably needed to locate the relevant records and verify the request.
+Users can clear app storage through Android settings or uninstall the app to remove locally stored app data from that device, subject to Android backup/device behaviour.
 
-## 3. Local data
+## 3. Backend deletion requests
 
-Chat history and related chat state are intended to be stored locally. Users can clear app storage through Android settings or uninstall the app to remove local app data from that device. Android backup or other device-level copies may be governed by Android settings and should be checked separately.
+The backend stores installation, purchase and session records. To request help with backend records, email **indianfreelancerguy@gmail.com** with subject **Desi Ladki — Data Deletion Request**. Do not send purchase tokens, passwords or OTPs.
 
-## 4. Backend records
+**Important limitation:** The reviewed backend code does not currently show a self-service deletion endpoint or a complete deletion workflow. The email route is a request channel, not proof that automated deletion is already implemented. The operator must implement, test and document the deletion process before making stronger promises or enabling any account-based feature that requires account deletion.
 
-Purchase verification, fraud prevention, session and transaction records may be retained where required for legal, accounting, dispute or security purposes. The operator must implement and document a deletion workflow for records no longer required. A deletion request will be handled subject to mandatory retention duties.
+## 4. Records that may be retained
 
-## 5. Processing
-
-We aim to acknowledge requests promptly and complete eligible deletion within the period required by applicable law. We will explain if some records must be retained and why.
-
-## 6. Google Play and advertising records
-
-Data held independently by Google Play, Google Payments or Google advertising services is subject to Google's own processes and privacy controls. Contact Google directly for data held in your Google account.
+Some transaction, accounting, fraud-prevention or dispute records may need to be retained where required by law. Records held independently by Google Play or Google Payments are governed by Google's processes.
