@@ -3,7 +3,7 @@
 **Desi Ladki**  
 **Last updated: 21 November 2026**
 
-Desi Ladki is operated under the name **Xenon** by an individual developer. Contact: **indianfreelancerguy@gmail.com**. The location supplied is Jamia Nagar, New Delhi, India; a complete postal address and the individual's full legal name have not yet been provided.
+Desi Ladki is published and operated by **Xenon**, a registered company (company name as supplied by the publisher). **Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India. **Contact:** indianfreelancerguy@gmail.com.
 
 ## 1. Information handled
 
@@ -49,4 +49,5 @@ This policy will be updated if advertising, analytics, account features, cloud c
 ## 9. Contact
 
 **Email:** indianfreelancerguy@gmail.com  
-**Operator name supplied:** Xenon (individual developer; full legal name and complete postal address still required).
+**Publisher:** Xenon (registered company)  
+**Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India.
