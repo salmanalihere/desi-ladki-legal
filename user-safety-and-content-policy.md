@@ -27,3 +27,10 @@ Report misleading content, security issues or safety concerns at **indianfreelan
 ## 6. Content review
 
 The current product has been described as primarily pre-written content. If user-generated content, free-text prompts, image uploads, voice or live interaction are introduced, this policy and moderation/reporting controls must be updated before release.
+
+
+## Publisher details
+
+**Publisher:** Xenon (registered company)  
+**Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
+**Email:** indianfreelancerguy@gmail.com
