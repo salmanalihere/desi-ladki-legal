@@ -19,3 +19,10 @@ The backend stores installation, purchase and session records. To request help w
 ## 4. Records that may be retained
 
 Some transaction, accounting, fraud-prevention or dispute records may need to be retained where required by law. Records held independently by Google Play or Google Payments are governed by Google's processes.
+
+
+## 5. Publisher details
+
+**Publisher:** Xenon (registered company)  
+**Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
+**Email:** indianfreelancerguy@gmail.com
