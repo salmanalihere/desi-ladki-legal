@@ -2,13 +2,13 @@
 
 Public policy website for the Desi Ladki Android app.
 
-**Operator / name supplied:** Xenon  
-**Publisher structure:** Individual developer (the supplied name “Xenon” has not been confirmed as the individual's full legal name or a registered entity)  
+**Publisher / company name supplied:** Xenon  
+**Publisher structure:** Registered company  
+**Registered office / contact address supplied:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
 **Contact email:** indianfreelancerguy@gmail.com  
-**Location supplied:** Jamia Nagar, New Delhi, India (incomplete postal address; house/street details and PIN code are still required)  
 **Policy review date:** 21 November 2026
 
-> **Draft status:** These are working policy drafts, not legal advice. Complete the publication checklist and obtain legal review before relying on them as final policies. Do not represent “Xenon” as a registered company without confirming its legal status.
+> **Draft status:** These are working policy drafts, not legal advice. The publisher has confirmed that Xenon is a registered company. Before publication, ensure “Xenon” is written exactly as it appears on the company's registration certificate (including any legal suffix such as Pvt. Ltd. or LLP, if applicable), and obtain legal review.
 
 ## Pages
 
@@ -35,9 +35,9 @@ Public policy website for the Desi Ladki Android app.
 
 ## Publication checklist
 
-1. Confirm the individual's full legal name. “Xenon” may be a working/trade name; it is not automatically a person's legal name or a registered company.
-2. Complete the postal address: house/building number, street/locality, Jamia Nagar, New Delhi, Delhi, PIN code, India.
-3. Confirm whether the individual developer formally designates themselves as Grievance Officer and use the person's correct legal name/designation.
+1. Confirm that “Xenon” is the exact registered company name and add its legal suffix exactly as shown on the registration certificate, if any.
+2. Confirm that the supplied address is the company's correct registered/contact address: C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India.
+3. Identify the person formally designated as the Grievance Officer and publish their correct name and designation where required by applicable law.
 4. Before enabling AdMob, review the SDK, consent flow, advertising ID use, ad personalisation, privacy disclosures and Google Play Data safety form; update these policies before release.
 5. Set actual retention periods and implement deletion/cleanup procedures for backend purchase/session records. At present the backend schema has persistent user, purchase and session tables; no automatic expiry/deletion schedule is evident in the reviewed storage code.
 6. Implement and test a backend deletion request process and a user-facing route if the app's account model or Play requirements require it.
