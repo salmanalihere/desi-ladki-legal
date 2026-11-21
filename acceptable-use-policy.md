@@ -23,3 +23,10 @@ We may investigate credible reports and restrict access where reasonably necessa
 ## Reporting
 
 Report concerns to **indianfreelancerguy@gmail.com**. Include relevant context but avoid sending sensitive personal data unless necessary.
+
+
+## Publisher and contact details
+
+**Publisher:** Xenon (registered company)  
+**Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India  
+**Email:** indianfreelancerguy@gmail.com
