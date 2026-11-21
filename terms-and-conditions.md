@@ -2,7 +2,7 @@
 
 **Last updated: 21 November 2026**
 
-These Terms govern your use of the Desi Ladki Android application. The operator name supplied is **Xenon**, operated by an individual developer. Contact: **indianfreelancerguy@gmail.com**.
+These Terms govern your use of the Desi Ladki Android application. The publisher is **Xenon**, a registered company. **Registered/contact address:** C1/7, Block D, Jamia Nagar, New Delhi, Delhi 110025, India. Contact: **indianfreelancerguy@gmail.com**.
 
 ## 1. Acceptance and eligibility
 
@@ -38,7 +38,7 @@ We may restrict access where reasonably necessary to protect users, prevent frau
 
 ## 9. Complaints and governing law
 
-Contact **indianfreelancerguy@gmail.com** for support or complaints. These Terms are intended to be governed by the laws of India, subject to mandatory consumer and privacy rights and the jurisdiction rules applicable to the user and operator. The operator's full legal name, postal address and designated grievance officer should be added before publication.
+Contact **indianfreelancerguy@gmail.com** for support or complaints. These Terms are intended to be governed by the laws of India, subject to mandatory consumer and privacy rights and the jurisdiction rules applicable to the user and operator. The publisher's exact registered name (including any legal suffix) and the designated Grievance Officer's name/designation should be verified against company records and added wherever required.
 
 ## 10. Changes and contact
 
